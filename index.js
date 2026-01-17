@@ -2,7 +2,6 @@
 
 let nomeDoHeroi = "Jesus"
 let nivelDeExperiencia = 10001
-let verificarNivelDoHeroi = 0
 
 // Verificação do nível do Heroi
 // Escolhi utilizar o switch case por conta da quantidade de verificações
