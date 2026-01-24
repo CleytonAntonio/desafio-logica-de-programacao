@@ -1,5 +1,7 @@
 <h1>
-  1️⃣ Desafio Classificador de nível de Herói - DIO
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Desafio Classificador de nível de Herói - DIO</span>
 </h1>
 
 **O Que deve ser utilizado**
@@ -9,18 +11,26 @@
 - Laços de repetição
 - Estruturas de decisões
 
+## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+
 ## Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
+| Nível       | XP                     |
+|-------------|------------------------|
+| Ferro       | Menor que 1.000        |
+| Bronze      | 1.001 – 2.000          |
+| Prata       | 2.001 – 5.000          |
+| Ouro        | 5.001 – 7.000          |
+| Platina    | 7.001 – 8.000          |
+| Ascendente | 8.001 – 9.000          |
+| Imortal    | 9.001 – 10.000         |
+| Radiante   | Maior ou igual a 10.001| 
+
 
 ## Saída
 

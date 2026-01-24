@@ -1,4 +1,4 @@
-//desafio proposto pela DIO: Classificador de nível de herói
+//Desafio proposto pela DIO: Classificador de nível de herói
 
 //Declarção de variáveis
 let nomeDoHeroi = "Jesus";
